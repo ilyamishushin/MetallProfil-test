@@ -1,7 +1,7 @@
 # MetallProfil-test
 
 # Packages:
-jest - Test library
+jest - Test library;
 puppeteer - web driver
 
 # Setup:
