@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "test": "jest --expand --maxWorkers 4 --config ./config/base/jest.config.js"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.2",
+    "@types/puppeteer": "^1.19.1",
+    "@typescript-eslint/eslint-plugin": "^2.5.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "axios": "^0.21.1",
+    "eslint": "^6.2.1",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "faker": "^4.1.0",
+    "https": "^1.0.0",
+    "husky": "^3.0.9",
+    "jest": "^24.9.0",
+    "lint-staged": "^9.4.2",
+    "numeral": "^2.0.6",
+    "p-iteration": "^1.1.8",
+    "prettier": "^1.19.1",
+    "puppeteer": "^1.19.0",
+    "querystring": "^0.2.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3",
+    "url-parse": "^1.4.7",
+    "wait-for-expect": "^2.0.0"
+  }
+}
