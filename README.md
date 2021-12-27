@@ -1,6 +1,6 @@
 # MetallProfil-test
 
-Packages:
+# Packages:
 jest - Test library
 puppeteer - web driver
 
