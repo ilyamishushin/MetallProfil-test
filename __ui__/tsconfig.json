@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "lib": ["es2015", "dom"],
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "baseUrl": "."
+  },
+  "include": [
+    "config",
+    "tests",
+    "node_modules",
+    "node_modules/puppeteer-tsd/src/index.d.ts"
+  ]
+}
